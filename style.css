@@ -1,0 +1,38 @@
+
+      body {
+        background-color: #212121;
+        color: #fff;
+      }
+
+      .center {
+        display: flex;
+        height: 100vh;
+        justify-content:center;
+        align-items: center;
+        flex-direction: column;
+      }
+
+      #banner{
+        font-size: 40px;
+        height: 50px;
+        padding: 20px 30px;
+        border-radius: 12px;
+        background-color: whitesmoke;
+        color: black;
+      }
+
+      #banner:hover{
+        background-color: chocolate;
+        cursor:pointer;
+      }
+
+      #clock {
+        font-size: 100px;
+        background-color: orange;
+        padding: 20px 50px;
+        margin-top: 10px;
+        border-radius: 10px;
+      }
+
+    
+    
