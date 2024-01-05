@@ -2,14 +2,14 @@
 <p>
 It is a digital clock based on my time zone.
 I have make use of 2 javascript methods here:
-1. addEventListner() : to display clock after the 'clicking' event has occured
-2. setInterval(): to keep displaying time at an interval of 1000ms or 1 second
+  1. addEventListner() : to display clock after the 'clicking' event has occured
+  2. setInterval(): to keep displaying time at an interval of 1000ms or 1 second
 </p>
 <p>
 In CSS:
-1. I have added hover effect on banner "Digital Clock"
-2. Cursor chnages to pointer and background-color changes to chocolate upon hovering
-3. Made the border round to give it a good visual look
+  1. I have added hover effect on banner "Digital Clock"
+  2. Cursor chnages to pointer and background-color changes to chocolate upon hovering
+  3. Made the border round to give it a good visual look
 </p>
 <h2>Project Image Gallery</h2>
 <h3>1. At First : </h3>
