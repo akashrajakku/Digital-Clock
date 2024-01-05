@@ -13,12 +13,15 @@ In CSS:
 </p>
 <h2>Project Image Gallery</h2>
 <h3>1. At First : </h3>
+
 ![image](https://github.com/akashrajakku/Digital-Clock/assets/109020866/f684ed35-768f-424b-8ae7-87d80b6ecb84)
 
 <h3>2. Hover Effect :</h3>
+
 ![image](https://github.com/akashrajakku/Digital-Clock/assets/109020866/d18e10d4-b0dc-4ba9-9540-7a9a3957d8a5)
 
 <h3>3. Digital Clock :</h3>
+
 ![image](https://github.com/akashrajakku/Digital-Clock/assets/109020866/f267db81-fba6-4c62-8744-d68551e4a4c8)
 <footer>
 This is a simple project I have built only to practice basics of javascript and css ,will keep updating it to give it a more classy look .
